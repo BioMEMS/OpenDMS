@@ -1,0 +1,139 @@
+(footprint "PTC"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0.0508 -1.8796 -90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "cc8f940b-77f9-4a4f-98c5-4a84a1875009")
+		(effects
+			(font
+				(size 1.23822 1.23822)
+				(thickness 0.03178)
+			)
+			(justify right top)
+		)
+	)
+	(property "Value" "PTCPTH"
+		(at -1.524 1.651 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "43d82577-7b62-4b7a-b957-4454ca539bd5")
+		(effects
+			(font
+				(size 0.37462 0.37462)
+				(thickness 0.03178)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Footprint" "FAIMSFBrev2.0:PTC"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ce0458b1-f371-4b69-9676-6e7389456fb5")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fdf6db7b-fb2e-4c34-894f-0b21ee774a28")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fd473498-df55-43ea-9d33-01b15c4197cf")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_line
+		(start -3.81 -1.524)
+		(end 3.81 -1.524)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "16ac2db9-fd5d-4272-a6ad-8aeedac9470b")
+	)
+	(fp_line
+		(start -3.81 1.524)
+		(end -3.81 -1.524)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8e13ed86-a673-4ce2-ad8c-a756d1025e59")
+	)
+	(fp_line
+		(start 3.81 -1.524)
+		(end 3.81 1.524)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "84fee49d-dd6a-4f19-b930-9378814e58a1")
+	)
+	(fp_line
+		(start 3.81 1.524)
+		(end -3.81 1.524)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f4c0923f-8c61-45e3-be30-77f935d3ea99")
+	)
+	(pad "P$1" thru_hole circle
+		(at -2.54 0)
+		(size 1.8796 1.8796)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 0)
+		(uuid "c3c7203f-b81a-4fb0-89eb-ebe6e35b4ded")
+	)
+	(pad "P$2" thru_hole circle
+		(at 2.54 0)
+		(size 1.8796 1.8796)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 0)
+		(uuid "c22a01ac-4b0e-4612-a078-10741c9a1f38")
+	)
+	(model "${KIPRJMOD}/packages3D/30R400UMR.stp"
+		(offset
+			(xyz 0 0 19)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 -14)
+		)
+	)
+)

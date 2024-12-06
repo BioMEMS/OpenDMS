@@ -1,0 +1,192 @@
+(footprint "L3216C"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "INDUCTOR")
+	(property "Reference" "REF**"
+		(at -3.302 0.889 -90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "0d1df35b-6744-4a7a-bbcf-04e676df6c2d")
+		(effects
+			(font
+				(size 1.176528 1.176528)
+				(thickness 0.093472)
+			)
+			(justify right top)
+		)
+	)
+	(property "Value" "100uH"
+		(at -1.905 3.175 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "66bd5455-aae4-40ee-8ccc-0970b2beaadd")
+		(effects
+			(font
+				(size 1.176528 1.176528)
+				(thickness 0.093472)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Footprint" "DualElectrometerR3.0:L3216C"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "adfffcb9-4ae1-4e08-93b5-051c551d42a2")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9681bf57-5108-41ca-8860-476d9962adfa")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "24acbcd4-20f1-48f9-9cc4-423660328942")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_poly
+		(pts
+			(xy -0.4001 0.5999) (xy 0.4001 0.5999) (xy 0.4001 -0.5999) (xy -0.4001 -0.5999)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill solid)
+		(layer "F.Adhes")
+		(uuid "b8956432-ccc3-444f-bc12-c68203c168b8")
+	)
+	(fp_line
+		(start -2.473 -1.483)
+		(end 2.473 -1.483)
+		(stroke
+			(width 0.0508)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "aae98170-fc5d-432a-834c-b691b1c2a31f")
+	)
+	(fp_line
+		(start -2.473 1.483)
+		(end -2.473 -1.483)
+		(stroke
+			(width 0.0508)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "c9b434ed-d614-4584-8aff-3960a1d88d94")
+	)
+	(fp_line
+		(start 2.473 -1.483)
+		(end 2.473 1.483)
+		(stroke
+			(width 0.0508)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "235e3c67-3e53-42b5-9c1f-e655d2d53850")
+	)
+	(fp_line
+		(start 2.473 1.483)
+		(end -2.473 1.483)
+		(stroke
+			(width 0.0508)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "3f28a175-b6b3-462c-9ace-0dee6e1bb02c")
+	)
+	(fp_line
+		(start -1.27 -0.896)
+		(end 1.27 -0.896)
+		(stroke
+			(width 0.1016)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ee8270e7-c64e-44e5-905d-09c3d7a58c0a")
+	)
+	(fp_line
+		(start -1.27 0.883)
+		(end 1.27 0.883)
+		(stroke
+			(width 0.1016)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "aeb5660b-38bc-4ed7-91be-58ee929858d7")
+	)
+	(fp_poly
+		(pts
+			(xy -1.7526 0.9525) (xy -1.2525 0.9525) (xy -1.2525 -0.9474) (xy -1.7526 -0.9474)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill solid)
+		(layer "F.Fab")
+		(uuid "66985614-9622-44cb-9301-764e165da528")
+	)
+	(fp_poly
+		(pts
+			(xy 1.2446 0.9525) (xy 1.7447 0.9525) (xy 1.7447 -0.9474) (xy 1.2446 -0.9474)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill solid)
+		(layer "F.Fab")
+		(uuid "69204dfc-cfed-4cef-b640-96a52a60b186")
+	)
+	(pad "1" smd rect
+		(at -1.5 0)
+		(size 1.2 1.6)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 0)
+		(uuid "9d7ebbf9-f817-4114-ba5a-2cd7b73f81c9")
+	)
+	(pad "2" smd rect
+		(at 1.5 0)
+		(size 1.2 1.6)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 0)
+		(uuid "ee8ee6a7-1501-4fbe-a7b9-d3d2e2a0ada3")
+	)
+	(model "C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/LQH31CN101K03L.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

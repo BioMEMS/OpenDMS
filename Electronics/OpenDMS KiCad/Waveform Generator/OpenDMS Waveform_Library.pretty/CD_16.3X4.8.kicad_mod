@@ -1,0 +1,139 @@
+(footprint "CD_16.3X4.8"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -8.636 1.016 90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "5f566b03-7395-4230-a5fb-0e59cc904a40")
+		(effects
+			(font
+				(size 1.176528 1.176528)
+				(thickness 0.093472)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Value" "10pF, 1000V"
+		(at -2.54 5.08 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "400c208d-92bd-435d-af69-719eb86c4931")
+		(effects
+			(font
+				(size 1.176528 1.176528)
+				(thickness 0.093472)
+			)
+			(justify right top)
+		)
+	)
+	(property "Footprint" "FAIMSFBrev2.0:CD_16.3X4.8"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "374c4e31-13e2-4ee5-a63b-778ab3d157b8")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4da74c9c-f39b-476a-af1a-c6a304f475e2")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8b483165-d6ca-4754-af1f-09e8c898b7aa")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_line
+		(start -8.128 -2.54)
+		(end 8.128 -2.54)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f6b3411c-25a4-4263-9ee9-cadc321f7e51")
+	)
+	(fp_line
+		(start -8.128 2.54)
+		(end -8.128 -2.54)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f0139b14-e306-46e5-8887-3ebf4a75aba6")
+	)
+	(fp_line
+		(start 8.128 -2.54)
+		(end 8.128 2.54)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8ac7f546-4d81-4f33-80e3-a4cf592b0b71")
+	)
+	(fp_line
+		(start 8.128 2.54)
+		(end -8.128 2.54)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "066f65fc-8c4a-406d-8771-2dc9a02b3866")
+	)
+	(pad "1" thru_hole circle
+		(at -4.3688 0)
+		(size 1.524 1.524)
+		(drill 1.016)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 0)
+		(uuid "1100397b-e427-4940-b832-0b3d6f4d92d8")
+	)
+	(pad "2" thru_hole circle
+		(at 4.3688 0)
+		(size 1.524 1.524)
+		(drill 1.016)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 0)
+		(uuid "790c53fd-5ed4-4bfd-9a83-7c45f6259a00")
+	)
+	(model "${KIPRJMOD}/packages3D/CDV19CF100JO3F.stp"
+		(offset
+			(xyz -4.4 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

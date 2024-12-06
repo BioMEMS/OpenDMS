@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "DualElectrometerR3.0-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/DualElectrometerR3.0-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "OpenDMS_DualElectrometer_lib_sym")(type "KiCad")(uri "${KIPRJMOD}/OpenDMS_DualElectrometer_lib_sym.kicad_sym")(options "")(descr ""))
+  (lib (name "OpenDMS_DualElectrometer_lib")(type "KiCad")(uri "${KIPRJMOD}/OpenDMS_DualElectrometer_lib.kicad_sym")(options "")(descr ""))
+)

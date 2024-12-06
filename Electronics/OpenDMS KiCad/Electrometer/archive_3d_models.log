@@ -1,0 +1,295 @@
+11-26 08:39:07 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 220:Plugin executed on: 'win32'
+11-26 08:39:07 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 221:Plugin executed with python version: '3.11.5 (main, Aug 14 2024, 05:26:19) [MSC v.1939 64 bit (AMD64)]'
+11-26 08:39:07 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 222:KiCad build version: 8.0.6
+11-26 08:39:07 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 223:Plugin version: 1.0.12
+
+11-26 08:39:07 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 228:Screen sizes: [wx.Size(2560, 1440)]
+11-26 08:39:07 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 235:Dialog size: wx.Size(213, 81)
+11-26 08:39:07 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 237:Char size: 15
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 26:Starting to archive 3D models
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: IC6
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ADA4000-1AUJZ-R7.stp
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ADA4000-1AUJZ-R7.stp
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C9
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C0805C224K5RACAUTO.stp
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C0805C224K5RACAUTO.stp
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C25
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C3216X5R1C476M160AB.stp
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C3216X5R1C476M160AB.stp
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: U$1
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R15
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-8ENF4701V.stp
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-8ENF4701V.stp
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C10
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C3216X5R1C476M160AB.stp
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C3216X5R1C476M160AB.stp
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C28
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C0805C224K5RACAUTO.stp
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C0805C224K5RACAUTO.stp
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: D2
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/BAT54SLT1G.stp
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/BAT54SLT1G.stp
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R23
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-6GEYJ102V.stp
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-6GEYJ102V.stp
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C5
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C3216X5R1C476M160AB.stp
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C3216X5R1C476M160AB.stp
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R9
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-8ENF4701V.stp
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-8ENF4701V.stp
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: J2
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/22-11-2062.stp
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/22-11-2062.stp
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R1
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-8ENF4701V.stp
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-8ENF4701V.stp
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: DCDC1
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/RP-1209D.stp
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/RP-1209D.stp
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: J3
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/5414373-1.stp
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/5414373-1.stp
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R20
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-6GEYJ102V.stp
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-6GEYJ102V.stp
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C14
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C0805C224K5RACAUTO.stp
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C0805C224K5RACAUTO.stp
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C34
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C3216X5R1C476M160AB.stp
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C3216X5R1C476M160AB.stp
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C24
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C3216X5R1C476M160AB.stp
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C3216X5R1C476M160AB.stp
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C23
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C3216X5R1C476M160AB.stp
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C3216X5R1C476M160AB.stp
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: L1
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/LQH31CN101K03L.stp
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/LQH31CN101K03L.stp
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C11
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C0805C224K5RACAUTO.stp
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C0805C224K5RACAUTO.stp
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: UNK12V0
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/LTST-C150KGKT.stp
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/LTST-C150KGKT.stp
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: IC1
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/MCP1703T-3302E_DB.stp
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/MCP1703T-3302E_DB.stp
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C36
+11-26 08:39:15 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C3216X5R1C476M160AB.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C3216X5R1C476M160AB.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R16
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-6GEYJ102V.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-6GEYJ102V.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: J6
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/0022112022.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/0022112022.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R21
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-6GEYJ102V.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-6GEYJ102V.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: IC3
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/AD5593RBRUZ.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/AD5593RBRUZ.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: IC5
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/MCP1703T-3302E_DB.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/MCP1703T-3302E_DB.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C6
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/EEE-HA1V101XP.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/EEE-HA1V101XP.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R30
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-6GEYJ102V.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-6GEYJ102V.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C1
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/EEE-HA1V101XP.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/EEE-HA1V101XP.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: SH1
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/bmi-s-205-f-stp-file.STP
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/bmi-s-205-f-stp-file.STP
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R19
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-6GEYJ102V.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-6GEYJ102V.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R26
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-6GEYJ102V.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-6GEYJ102V.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R6
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-8ENF4701V.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-8ENF4701V.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C33
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C0805C224K5RACAUTO.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C0805C224K5RACAUTO.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R2
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-8ENF4701V.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-8ENF4701V.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R7
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-8ENF4701V.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-8ENF4701V.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C22
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C0805C224K5RACAUTO.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C0805C224K5RACAUTO.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C15
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/EEE-HA1V101XP.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/EEE-HA1V101XP.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: J5
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/0022112022.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/0022112022.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C18
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C3216X5R1C476M160AB.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C3216X5R1C476M160AB.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: H4
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: J1
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/0022112022.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/0022112022.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C38
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C0805C224K5RACAUTO.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C0805C224K5RACAUTO.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: H1
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R11
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-6GEYJ102V.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-6GEYJ102V.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C35
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C3216X5R1C476M160AB.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C3216X5R1C476M160AB.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R4
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-8ENF4701V.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-8ENF4701V.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R8
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-6GEYJ102V.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-6GEYJ102V.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C31
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C0805C224K5RACAUTO.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C0805C224K5RACAUTO.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C21
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C3216X5R1C476M160AB.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C3216X5R1C476M160AB.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C39
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C3216X5R1C476M160AB.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C3216X5R1C476M160AB.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R22
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-6GEYJ102V.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-6GEYJ102V.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C12
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C0805C224K5RACAUTO.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C0805C224K5RACAUTO.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C16
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/EEE-HA1V101XP.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/EEE-HA1V101XP.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: L2
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/LQH31CN101K03L.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/LQH31CN101K03L.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: L3
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/LQH31CN101K03L.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/LQH31CN101K03L.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C26
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C3216X5R1C476M160AB.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C3216X5R1C476M160AB.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: J4
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/5414373-1.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/5414373-1.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C29
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C0805C224K5RACAUTO.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C0805C224K5RACAUTO.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C4
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/EEE-HA1V101XP.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/EEE-HA1V101XP.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R17
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-6GEYJ102V.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-6GEYJ102V.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R5
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-8ENF4701V.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-8ENF4701V.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: IC4
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/AD8643ARZ.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/AD8643ARZ.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C2
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C3216X5R1C476M160AB.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C3216X5R1C476M160AB.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C3
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C3216X5R1C476M160AB.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C3216X5R1C476M160AB.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C7
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/EEE-HA1V101XP.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/EEE-HA1V101XP.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R29
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-6GEYJ102V.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-6GEYJ102V.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C20
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C3216X5R1C476M160AB.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C3216X5R1C476M160AB.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R18
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-6GEYJ102V.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-6GEYJ102V.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R14
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-8ENF4701V.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-8ENF4701V.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: IC7
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/3800-ItsyBitsy-M4.step
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/3800-ItsyBitsy-M4.step
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R32
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-6GEYJ102V.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-6GEYJ102V.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: IC2
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/AD5593RBRUZ.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/AD5593RBRUZ.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R25
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-6GEYJ102V.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-6GEYJ102V.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R12
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-6GEYJ102V.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-6GEYJ102V.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C32
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C0805C224K5RACAUTO.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C0805C224K5RACAUTO.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: D1
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/BAT54SLT1G.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/BAT54SLT1G.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C13
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C0805C224K5RACAUTO.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C0805C224K5RACAUTO.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R28
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-6GEYJ102V.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-6GEYJ102V.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C27
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C0805C224K5RACAUTO.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C0805C224K5RACAUTO.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: H2
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R3
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-8ENF4701V.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-8ENF4701V.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R24
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-6GEYJ102V.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-6GEYJ102V.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: H3
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C17
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/EEE-HA1V101XP.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/EEE-HA1V101XP.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C19
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/EEE-HA1V101XP.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/EEE-HA1V101XP.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: F1
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/0ZCJ0075AF2E.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/0ZCJ0075AF2E.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R10
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-8ENF4701V.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-8ENF4701V.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C8
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C0805C224K5RACAUTO.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C0805C224K5RACAUTO.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C37
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C3216X5R1C476M160AB.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C3216X5R1C476M160AB.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R13
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-6GEYJ102V.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-6GEYJ102V.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R31
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-6GEYJ102V.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-6GEYJ102V.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R27
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-6GEYJ102V.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/ERJ-6GEYJ102V.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C30
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C0805C224K5RACAUTO.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/C0805C224K5RACAUTO.stp
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: SJ2
+11-26 08:39:16 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: SJ1

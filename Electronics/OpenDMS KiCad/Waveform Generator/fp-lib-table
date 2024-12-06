@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "FAIMSFBrev2.0")(type "KiCad")(uri "$(KIPRJMOD)/FAIMSFBrev2.0.pretty")(options "")(descr ""))
+  (lib (name "OpenDMS Waveform_Library")(type "KiCad")(uri "${KIPRJMOD}/OpenDMS Waveform_Library.pretty")(options "")(descr ""))
+)

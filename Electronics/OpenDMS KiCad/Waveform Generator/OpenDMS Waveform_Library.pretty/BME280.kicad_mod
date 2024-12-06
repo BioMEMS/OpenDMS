@@ -1,0 +1,226 @@
+(footprint "BME280"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Source: http://ae-bst.resource.bosch.com/media/products/dokumente/bme280/BST-BME280_DS001-09.pdf")
+	(property "Reference" "REF**"
+		(at -1.06 -2.042 -90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "49f6f146-baa9-45ea-863b-9afde49fd8b7")
+		(effects
+			(font
+				(size 0.692831 0.692831)
+				(thickness 0.119969)
+			)
+			(justify right top)
+		)
+	)
+	(property "Value" "BME280"
+		(at -1.24 1.91 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "9f86aa03-4bce-4ebe-9214-29917848e6ee")
+		(effects
+			(font
+				(size 0.369824 0.369824)
+				(thickness 0.036576)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Footprint" "FAIMSFBrev2.0:BME280"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6b9b4964-67b9-4328-873d-dd5e0e9ce7dc")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a4cb6ee4-6c5d-4f3c-a6fd-9f22362d4e2b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7a8310dc-d59c-4123-9291-59b1b7927523")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_line
+		(start -1.35 -1.35)
+		(end 1.35 -1.35)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "464a9abf-4e66-4721-b92b-0c1e29836ee0")
+	)
+	(fp_line
+		(start -1.35 1.35)
+		(end 1.35 1.35)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e75cc0be-3ab2-41ef-a89b-8bfd0820cd63")
+	)
+	(fp_circle
+		(center 1.95 -1)
+		(end 2.15 -1)
+		(stroke
+			(width 0.35)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "a46fa8c5-6d36-41df-820a-f256f20b2741")
+	)
+	(fp_line
+		(start -1.25 -1.25)
+		(end 1.25 -1.25)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d6a96674-7fcb-42a9-baf1-6fcb7fb7ae75")
+	)
+	(fp_line
+		(start -1.25 1.25)
+		(end -1.25 -1.25)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0998748f-993f-45e4-ac81-7a31bfb96627")
+	)
+	(fp_line
+		(start 1.25 -1.25)
+		(end 1.25 1.25)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "fb9b716e-1706-427f-9e90-ed17209f8eb6")
+	)
+	(fp_line
+		(start 1.25 1.25)
+		(end -1.25 1.25)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a22320bc-7994-4076-9535-760acc5b38b1")
+	)
+	(fp_circle
+		(center 0.39 -0.975)
+		(end 0.535343 -0.975)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "7094d438-baf5-40d5-9c87-c235d667d372")
+	)
+	(pad "1" smd rect
+		(at 1.025 -0.975)
+		(size 0.7 0.35)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 0)
+		(uuid "95d76fa8-d6c3-44ed-803a-100f1e7b29a1")
+	)
+	(pad "2" smd rect
+		(at 1.025 -0.325)
+		(size 0.7 0.35)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 0)
+		(uuid "9cb001f8-2a43-4648-b5e6-ced3b8a9893c")
+	)
+	(pad "3" smd rect
+		(at 1.025 0.325)
+		(size 0.7 0.35)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 0)
+		(uuid "e5b81170-c468-42d3-a329-de9c750fda7d")
+	)
+	(pad "4" smd rect
+		(at 1.025 0.975)
+		(size 0.7 0.35)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 0)
+		(uuid "cf33492c-7785-4a79-8dcd-48f44b57c5da")
+	)
+	(pad "5" smd rect
+		(at -1.025 0.975)
+		(size 0.7 0.35)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 0)
+		(uuid "c09d710c-38fc-4187-b1f6-13bab73feb1e")
+	)
+	(pad "6" smd rect
+		(at -1.025 0.325)
+		(size 0.7 0.35)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 0)
+		(uuid "cd9dbe79-f044-4c73-80b0-30e8b34ab500")
+	)
+	(pad "7" smd rect
+		(at -1.025 -0.325)
+		(size 0.7 0.35)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 0)
+		(uuid "ae5ec242-2bc6-480b-83c0-d833ffe41413")
+	)
+	(pad "8" smd rect
+		(at -1.025 -0.975)
+		(size 0.7 0.35)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 0)
+		(uuid "b2e4aa18-3044-4b57-88ce-616de3d16d52")
+	)
+	(model "${KIPRJMOD}/packages3D/BME280.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 -180)
+		)
+	)
+)

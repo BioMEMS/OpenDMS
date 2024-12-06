@@ -1,0 +1,240 @@
+(footprint "153CLV-0605"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Aluminum electrolytic capacitors\n\nSMD (Chip) Long Life Vertical 153 CLV\n\nhttp://www.bccomponents.com/")
+	(property "Reference" "REF**"
+		(at -3.757 -1.563 90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "89a31ace-4bdb-4a5b-a7a2-71a70fbd3aaf")
+		(effects
+			(font
+				(size 1.176528 1.176528)
+				(thickness 0.093472)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Value" "22uF, 50V"
+		(at -3.425 4.885 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "8a616d96-043c-40b8-a5ac-cd410bd56bcc")
+		(effects
+			(font
+				(size 1.176528 1.176528)
+				(thickness 0.093472)
+			)
+			(justify right top)
+		)
+	)
+	(property "Footprint" "DualElectrometerR3.0:153CLV-0605"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "99e4670e-c18f-4e13-9b97-c0ce017c646b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "386ac1ee-2d49-49a7-8184-2f377a13aab7")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7073f64c-4d5c-473f-9e45-76ae01961f58")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_line
+		(start -3.3 -3.3)
+		(end 2.4 -3.3)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f0ca4366-7376-4e70-961c-d9efc50767b5")
+	)
+	(fp_line
+		(start -3.3 -1.1)
+		(end -3.3 -3.3)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "42858c1c-cc69-47db-80cb-72d806ecd7c5")
+	)
+	(fp_line
+		(start -3.3 3.3)
+		(end -3.3 1.1)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "da9e6f51-5f8f-45e7-8796-9889d91f9757")
+	)
+	(fp_line
+		(start 2.4 -3.3)
+		(end 3.3 -2.4)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "110b8870-41dc-44f5-8253-a3e4318edbf5")
+	)
+	(fp_line
+		(start 2.4 3.3)
+		(end -3.3 3.3)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "17c4d1cb-bf5c-4f3a-ac52-aa80bbeb39c0")
+	)
+	(fp_line
+		(start 3.3 -2.4)
+		(end 3.3 -1.1)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "db5ac537-22ae-4260-ba47-b227fba0ab01")
+	)
+	(fp_line
+		(start 3.3 1.1)
+		(end 3.3 2.4)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1767f853-bedb-4344-8e26-888ff09b3f6e")
+	)
+	(fp_line
+		(start 3.3 2.4)
+		(end 2.4 3.3)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7008cfc0-6992-45d7-bcc4-afabfd8fe6f5")
+	)
+	(fp_arc
+		(start -2.95 -0.95)
+		(mid 0.018362 -3.091623)
+		(end 2.950002 -0.900001)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5a841c2e-683a-4dc8-9903-e5c06d4db540")
+	)
+	(fp_arc
+		(start 2.949998 0.949999)
+		(mid -0.018362 3.09162)
+		(end -2.95 0.9)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "783c3ef2-796d-4af6-80d4-96b976dcc2bc")
+	)
+	(fp_line
+		(start -3.3 1.1)
+		(end -3.3 -1.1)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c0584f05-1e3e-48ab-97f5-a0e216c0b1d5")
+	)
+	(fp_line
+		(start 3.3 -1.1)
+		(end 3.3 1.1)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5182ee97-c786-4fcf-a1c0-aa2b9fc1be55")
+	)
+	(fp_arc
+		(start -2.95 0.9)
+		(mid -3.091622 -0.025)
+		(end -2.95 -0.95)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "09a9f8c3-08cf-4c61-8d92-ace343988fa7")
+	)
+	(fp_arc
+		(start 2.95 -0.9)
+		(mid 3.091622 0.025)
+		(end 2.95 0.95)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ad9e8d80-8da8-4d5c-8824-c33746a47403")
+	)
+	(pad "+" smd rect
+		(at 2.7 0)
+		(size 3.5 1.6)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 0)
+		(uuid "03535672-2212-4aa4-aae4-13ad1ab86b8e")
+	)
+	(pad "-" smd rect
+		(at -2.7 0)
+		(size 3.5 1.6)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 0)
+		(uuid "bc05efcc-a05a-443f-8fcb-ad5ef2d705e8")
+	)
+	(model "C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/EEE-HA1V101XP.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)

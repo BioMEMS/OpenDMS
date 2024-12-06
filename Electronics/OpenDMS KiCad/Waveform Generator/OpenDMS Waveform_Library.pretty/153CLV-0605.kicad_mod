@@ -1,0 +1,240 @@
+(footprint "153CLV-0605"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Aluminum electrolytic capacitors\n\nSMD (Chip) Long Life Vertical 153 CLV\n\nhttp://www.bccomponents.com/")
+	(property "Reference" "REF**"
+		(at -3.39 -3.63 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "b4494e5a-5f39-42b1-adea-740eb2067ab8")
+		(effects
+			(font
+				(size 1.176528 1.176528)
+				(thickness 0.093472)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Value" "22uF, 50V"
+		(at -3.425 4.885 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "f660ed08-ef1c-470b-b405-2707e35ed3a5")
+		(effects
+			(font
+				(size 1.176528 1.176528)
+				(thickness 0.093472)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Footprint" "FAIMSFBrev2.0:153CLV-0605"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ba9385ca-20b8-4330-a152-196fd498dc18")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3cd2ad63-6f3c-44ce-8d84-5651788d3f14")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3b53d10a-34a8-4680-9775-3f9ad738235d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_line
+		(start -3.3 -3.3)
+		(end 2.4 -3.3)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "935c6406-2c7a-4ac3-bfe4-37202da8617b")
+	)
+	(fp_line
+		(start -3.3 -1.1)
+		(end -3.3 -3.3)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "322e0dd3-51ac-4561-b4c0-699c014a628c")
+	)
+	(fp_line
+		(start -3.3 3.3)
+		(end -3.3 1.1)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4bc8ba43-5adc-4eb8-b0b8-0ec17490a6ab")
+	)
+	(fp_line
+		(start 2.4 -3.3)
+		(end 3.3 -2.4)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ee54a22b-e850-4e6a-bca0-c3d56467e7e2")
+	)
+	(fp_line
+		(start 2.4 3.3)
+		(end -3.3 3.3)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "503c4506-725d-486e-916d-0473943cfc5d")
+	)
+	(fp_line
+		(start 3.3 -2.4)
+		(end 3.3 -1.1)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3d077f20-aeca-45de-9e7b-fa3716e061d9")
+	)
+	(fp_line
+		(start 3.3 1.1)
+		(end 3.3 2.4)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4445d4e9-548c-4b6e-8d5d-c39e94d7f105")
+	)
+	(fp_line
+		(start 3.3 2.4)
+		(end 2.4 3.3)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2a40b09f-901e-4c43-8136-02d4d6782227")
+	)
+	(fp_arc
+		(start -2.95 -0.95)
+		(mid 0.018362 -3.091623)
+		(end 2.950002 -0.900001)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "350df7db-6cbe-4134-83bd-7f4be3bbdc3a")
+	)
+	(fp_arc
+		(start 2.949998 0.949999)
+		(mid -0.018362 3.09162)
+		(end -2.95 0.9)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5baa4997-22d3-4448-8dc5-071b643ffadc")
+	)
+	(fp_line
+		(start -3.3 1.1)
+		(end -3.3 -1.1)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "514f67cc-28dd-4ead-b27d-2ac28f313fdb")
+	)
+	(fp_line
+		(start 3.3 -1.1)
+		(end 3.3 1.1)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5d21214d-0182-49ba-9223-9ac1406e8997")
+	)
+	(fp_arc
+		(start -2.95 0.9)
+		(mid -3.091622 -0.025)
+		(end -2.95 -0.95)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "79b9d6ee-7f0f-4d0e-bfdc-f2c15b2aa121")
+	)
+	(fp_arc
+		(start 2.95 -0.9)
+		(mid 3.091622 0.025)
+		(end 2.95 0.95)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a3839a5d-0d0f-45f0-a81e-176cc9ffd311")
+	)
+	(pad "+" smd rect
+		(at 2.7 0)
+		(size 3.5 1.6)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 0)
+		(uuid "724823ea-147f-496f-9535-ac9a4b390319")
+	)
+	(pad "-" smd rect
+		(at -2.7 0)
+		(size 3.5 1.6)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 0)
+		(uuid "53e29cc2-da15-4e13-9975-e6e2bcab5177")
+	)
+	(model "${KIPRJMOD}/packages3D/EEE-HA1V101XP.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)

@@ -1,0 +1,214 @@
+(footprint "BNC"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -6.858 5.842 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "bea91b77-e2b2-4058-a32e-a3e72b3644d7")
+		(effects
+			(font
+				(size 1.176528 1.176528)
+				(thickness 0.093472)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Value" "BNCJACK"
+		(at -4.318 -6.35 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "060537af-53c2-4ccd-b4a9-be3b85bba995")
+		(effects
+			(font
+				(size 1.176528 1.176528)
+				(thickness 0.093472)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Footprint" "DualElectrometerR3.0:BNC"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "745bfed4-ff75-44de-b181-0d5eef343198")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f5c4651a-1bb7-4ee2-9402-d0924dc4b1d6")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f03d77df-e15e-403d-913b-1c7e81850fbf")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_line
+		(start -4.318 -5.334)
+		(end -4.318 5.334)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "99e5718c-ac7c-43c7-81a9-c20ea445b14d")
+	)
+	(fp_line
+		(start -4.318 5.334)
+		(end 3.81 5.334)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "66e6cf09-4d21-4780-9a11-0f83364fbf7f")
+	)
+	(fp_line
+		(start 3.81 -5.334)
+		(end -4.318 -5.334)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4bb48259-6d60-48d0-b0e3-05972d3471ea")
+	)
+	(fp_line
+		(start 3.81 -5.334)
+		(end 3.81 5.334)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "bf6d5aaa-511c-4593-9f04-660a581de76c")
+	)
+	(fp_line
+		(start 3.81 5.334)
+		(end 17.526 5.334)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7cf902fa-ec3b-4878-9fe9-16a0c0c3a3ed")
+	)
+	(fp_line
+		(start 17.526 -5.334)
+		(end 3.81 -5.334)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e0c4cd7c-620e-4344-8932-4ce0eecbaa4c")
+	)
+	(fp_line
+		(start 17.526 5.334)
+		(end 17.526 -5.334)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "54503558-9458-4a0a-865e-5fd2b2394d77")
+	)
+	(fp_circle
+		(center 14.732 0)
+		(end 15.535215 0)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "8e61ebb4-e346-4d71-b284-4895aff7d8f8")
+	)
+	(fp_poly
+		(pts
+			(xy -6.096 0.508) (xy -4.318 0.508) (xy -4.318 -0.508) (xy -6.096 -0.508)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill solid)
+		(layer "F.SilkS")
+		(uuid "af9405ed-7573-40b8-bcb4-0087dd0d55c5")
+	)
+	(fp_poly
+		(pts
+			(xy -4.318 0.254) (xy 17.018 0.254) (xy 17.018 -0.254) (xy -4.318 -0.254)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill solid)
+		(layer "F.Fab")
+		(uuid "b669651c-5c4a-4b9b-835f-8549bacb851e")
+	)
+	(pad "1" thru_hole circle
+		(at -7.62 0)
+		(size 1.7907 1.7907)
+		(drill 1.1938)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 0)
+		(uuid "475a3e5d-d292-4a2b-b077-7ce6ac13c8b2")
+	)
+	(pad "2" thru_hole circle
+		(at 0 -3.81)
+		(size 2.667 2.667)
+		(drill 1.778)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 0)
+		(uuid "6d4b2852-2b72-43c1-ab1d-c4e596c075af")
+	)
+	(pad "3" thru_hole circle
+		(at 0 3.81)
+		(size 2.667 2.667)
+		(drill 1.778)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 0)
+		(uuid "7a11a4e2-e528-4a25-8008-c521ebf4e797")
+	)
+	(model "C:/Users/Dylan-SFF/Downloads/OpenDMS/SamacSys_Parts.3dshapes/5414373-1.stp"
+		(offset
+			(xyz 18 0 5.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 -90)
+		)
+	)
+)
