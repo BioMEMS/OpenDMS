@@ -38,7 +38,7 @@ for k = 1:numel(fileList)
 
         % Convert indices to the desired range (500 to 1700)
         yAxis = interp1([1, 50], [500, 1700], yAxisIndices);
-        y2Axis = interp1([1, 50], [37.18, 148.7], yAxisIndices);
+        y2Axis = interp1([1, 50], [43.48, 147.8], yAxisIndices);
 
         xData = sheetData(1, 2:end); % X data in the first row
         yDataMatrix = sheetData(3:end, 2:end); % Z data (Ion Current) in the subsequent rows
@@ -89,7 +89,7 @@ for k = 1:numel(fileList)
 
         % Global properties
         T_bath = 319.0;     % Temperature in Kelvin
-        p_bath = 101325.0;  % Pressure in Pascals
+        p_bath = 104791.0;  % Pressure in Pascals
         Nv = p_bath / (kB * T_bath);  % Particle density (1/m^3)
         gapsize = 0.0005;   % Gap size in meters
 
