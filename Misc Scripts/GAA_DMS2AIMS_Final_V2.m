@@ -2,9 +2,11 @@ clear;
 close all;
 clc;
 
+%%This file converts the GAA file format into a usable AIMS format
+
 %% User Input Variables
 
-file_loc = 'C:\Users\Dylan Koch\Box\';
+file_loc = 'C:\';
 files = dir(file_loc);
 file_loc_output = fullfile(file_loc, 'Output_Files');
 output_folder = fullfile(file_loc, 'Output_Files');

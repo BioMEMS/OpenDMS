@@ -2,6 +2,7 @@
 % Reference:
 % Haack, A., & Hopkins, W. S.: Kinetics in DMS: Modeling Clustering and Declustering Reactions.
 % J. Am. Soc. Mass Spectrom. 2022, 33(12), 2250–2262. https://doi.org/10.1021/jasms.2c00224
+%%This script is converted from python provided by Alexander Haack to run in MATLAB. It will display a dispersion plot with given alpha and mobility values.
 
 clc;
 clear all;
@@ -13,7 +14,7 @@ filterOption = input('Enter the Savitzky-Golay filter level (must be an odd numb
 bgSubtraction = input('Do you want to perform background subtraction? Enter 1 for Yes, 0 for No: ');
 
 % Specify the folder path containing the .xls files
-folderPath = 'C:\Users\Dylan Koch\Box\1_BIOMEMS MEMBERS\KOCH Dylan\0_KOCH\Dylan DMS Paper\Figures\Figure 3';
+folderPath = 'C:\';
 
 % Get a list of all .xls files in the folder
 fileList = dir(fullfile(folderPath, '*.xls'));
@@ -94,8 +95,8 @@ for k = 1:numel(fileList)
         gapsize = 0.0005;   % Gap size in meters
 
         % Molecule mobility values 
-         K_lf = 1.933e-4;  % Low-field mobility in m^2/V·s Dmmp
-         a_coeffs = [4.0995e-6, -2.3882e-10, +3.3542e-15];  % Alpha coefficients in Td^(-2k)
+         K_lf = 1e-4;  % Low-field mobility in m^2/V·s Test compound
+         a_coeffs = [1e-6, -2e-10, +3e-15];  % Alpha coefficients in Td^(-2k)
        
 
         % Calculate the dispersion plot over a range of SVpp values
