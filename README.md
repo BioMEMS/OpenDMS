@@ -1,4 +1,4 @@
-Hardware developed in Prof. Cristina Davis' Bioinstrumentation and BioMEMS laboratory. Publications (i.e. articles, book chapters, etc.) that use this hardware are required to cite the related article (https://pubs.acs.org/doi/XXX)
+Hardware developed in Prof. Cristina Davis' Bioinstrumentation and BioMEMS laboratory. Publications (i.e. articles, book chapters, etc.) that use this hardware are required to cite the related article (https://pubs.acs.org/doi/10.1021/acs.analchem.5c00361)
 
 In this repository you will find all the necessary files and components to recreate the OpenDMS system. Updates will be posted periodically as improvements to the OpenDMS are made. If there are any questions or concerns when trying to replicate the system, please contact biomems.ucdavis@gmail.com with the email subject “OpenDMS – (Question/Bug)” and we will respond to your inquiry. 
 
