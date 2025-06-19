@@ -1,3 +1,12 @@
+%Hardware developed in Prof. Cristina Davis' Bioinstrumentation and BioMEMS laboratory. Publications (i.e. articles, book chapters, etc.) that use this hardware are required to cite the related article (https://pubs.acs.org/doi/10.1021/acs.analchem.5c00361)
+
+%In this repository you will find all the necessary files and components to recreate the OpenDMS system. Updates will be posted periodically as improvements to the OpenDMS are made. If there are any questions or concerns when trying to replicate the system, please contact biomems.ucdavis@gmail.com with the email subject “OpenDMS – (Question/Bug)” and we will respond to your inquiry.
+
+%© The Regents of the University of California, Davis campus, 2025. This material is available as open source for research and personal use under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License (https://creativecommons.org/licenses/by-nc-nd/4.0/). Commercial licensing may be available, and a license fee may be required. The Regents of the University of California own the copyrights to the hardware and PCB designs.
+
+
+
+
 clear;
 close all;
 clc;
